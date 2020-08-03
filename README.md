@@ -1,5 +1,5 @@
 # Kaggle Problems Analysis and Solutions
-This repository is my set of solutions to the [kaggle](https://www.kaggle.com/) problems. For further information of the implementation, please refer to the Readme.md of each subfolder.
+This repository is my set of solutions to the [kaggle](https://www.kaggle.com/) problems. For further information of the implementation, please refer to the INFO.md of each subfolder.
 
 ### Nota Bene
 This is my first attempt as a machine learning and data analysis practitioner.
