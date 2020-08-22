@@ -7,6 +7,8 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 
+import DataAnalysisModule
+
 import matplotlib
 import pandas as pd
 import numpy as np
@@ -85,7 +87,7 @@ nr_crt = 0
 ######################################################################################################################
 train_df = pd.read_csv('Train.csv')
 test_df = pd.read_csv('Test.csv')
-data_analysis = DataAnalysisClass()
+data_analysis = DataAnalysisModule.DataAnalysisClass()
 
 ######################################################################################################################
 # see the composition of the data frame
