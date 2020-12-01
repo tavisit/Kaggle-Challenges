@@ -19,3 +19,4 @@ There are several projects in subfolders, corresponding to the Kaggle challenges
 * Titanic_Analysis represents the solution of this [problem](https://www.kaggle.com/c/titanic)
 * House_Prices_Analysis represents the solution of this [problem](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 * BigMart represents the solution of this [problem](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/)
+* Predict Number of Upvotes represets the solution of this [proble](https://datahack.analyticsvidhya.com/contest/enigma-codefest-machine-learning-1/#MySubmissions)
